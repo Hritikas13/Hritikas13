@@ -14,7 +14,7 @@
  
  🌱 I'm currently learning **React.js, Node.js, MongoDB**
 
- 💬 Ask me about **Node.js, React, Firebase... or anything [here][(https://github.com/YourUsername/YourUsername/issues](https://github.com/Hritikas13/))**
+ 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Hritikas13/))**
 
  ⚡ Fun fact **Did you know? The first computer "bug" was a real bug 🪲**
  
